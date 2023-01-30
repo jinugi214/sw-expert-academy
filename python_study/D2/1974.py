@@ -1,41 +1,63 @@
 T = int(input())
 
-for test_case in range(1, T + 1):
-    data = []
-    break_value = False
-    for i in range(1, 10):
-        data.append(list(input().split()))
-        
+def square(x, y):
+    square_list = []
+
+    for i in range(x, x + 3):
+        for j in range(y, y + 3):
+            square_list.append(puzzle[i][j])
+    return square_list
+
+
+def check(puzzle):
+    if len(set(puzzle)) != 9:
+        return False
+
+    if sum(puzzle) != 45:
+        return False
+
+    for num in puzzle:
+        if num > 9:
+            return False
+
+    return True
+
+
+for t in range(1, T+1):
+    puzzle = []
+    for _ in range(9):
+        puzzle.append(list(map(int, input().split())))
+
+    ans = 1
+
     for i in range(9):
-        if len(set(data[i])) != 9:
-            print('#'+str(test_case), 0)
-            break_value = True
+        if not check(puzzle[i][:9]):
+            ans = 0
             break
-    
+
+    if ans == 0:
+        print(f'#{t} {ans}')
+        continue
+
+    for i in range(9):
         tmp = []
         for j in range(9):
-            tmp.append(data[j][i])
-        if len(set(tmp)) != 9:
-            print('#'+str(test_case), 0)
-            break_value = True
+            tmp.append(puzzle[j][i])
+
+        if not check(tmp):
+            ans = 0
             break
-    
-    if break_value == True:
+
+    if ans == 0:
+        print(f'#{t} {ans}')
         continue
-            
-    for i in range(0, 7, 3):
-        for j in range(0, 7, 3):
-            square = []
-            for x in range(3):
-                for y in range(3):
-                    square.append(data[i+x][j+y])
-            if len(set(square)) != 9:
-                print('#'+str(test_case), 0)
-                break_value = True
+
+    for i in range(0, 9, 3):
+        for j in range(0, 9, 3):
+            if not check(square(i, j)):
+                ans = 0
                 break
-        if break_value == True:
+        if ans == 0:
             break
-    if break_value == True:
-            continue
-                
-    print('#'+str(test_case), 1)
+
+    print(f'#{t} {ans}')
