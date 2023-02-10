@@ -1,4 +1,7 @@
+# title : 스도쿠 검증
+
 T = int(input())
+
 
 def square(x, y):
     square_list = []
@@ -23,7 +26,7 @@ def check(puzzle):
     return True
 
 
-for t in range(1, T+1):
+for t in range(1, T + 1):
     puzzle = []
     for _ in range(9):
         puzzle.append(list(map(int, input().split())))
