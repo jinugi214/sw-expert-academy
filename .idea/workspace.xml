@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e31bc719-1ecc-4173-9686-4e9348d0afe3" name="Changes" comment="2023-02-12 algorithm study">
-      <change afterPath="$PROJECT_DIR$/python_study/D2/4834.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_study/D2/4835.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_study/else/BubbleSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_study/else/CountingSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_study/else/binarySearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_study/else/selectionSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_study/else/sequentialSearch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_study/D2/4828.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_study/D2/4828.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_study/D3/12467.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_study/D3/4831.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_study/D3/1216.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_study/D3/1216.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_study/else/selectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_study/else/selectionSort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +28,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/project/sw-expert-academy&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/project/programmers-algorithm"
   }
-}</component>
-  <component name="RunManager" selected="Python.sequentialSearch">
-    <configuration name="4828" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.1216">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sw-expert-academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +44,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_study/D2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_study/else" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/D2/4828.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/else/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4834" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1216" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sw-expert-academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_study/D2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_study/D3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/D2/4834.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/D3/1216.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CountingSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="selectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sw-expert-academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/else/CountingSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/else/selectionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1216" />
+        <item itemvalue="Python.12" />
+        <item itemvalue="Python.selectionSort" />
         <item itemvalue="Python.sequentialSearch" />
         <item itemvalue="Python.4835" />
-        <item itemvalue="Python.4834" />
-        <item itemvalue="Python.4828" />
-        <item itemvalue="Python.CountingSort" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676198508119</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2023-02-12 algorithm study">
+      <created>1676211018697</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676211018697</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
