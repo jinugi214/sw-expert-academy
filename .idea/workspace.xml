@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e31bc719-1ecc-4173-9686-4e9348d0afe3" name="Changes" comment="2023-02-12 algorithm study">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_study/D3/1216.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_study/D3/1216.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_study/else/selectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_study/else/selectionSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_study/D2/1859.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_study/D2/1859.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +31,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/project/programmers-algorithm"
+    "last_opened_file_path": "C:/project/sw-expert-academy"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.1216">
+  <component name="RunManager" selected="Python.1859">
     <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sw-expert-academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4835" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1859" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sw-expert-academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/D2/4835.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/D2/1859.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1859" />
         <item itemvalue="Python.1216" />
         <item itemvalue="Python.12" />
         <item itemvalue="Python.selectionSort" />
         <item itemvalue="Python.sequentialSearch" />
-        <item itemvalue="Python.4835" />
       </list>
     </recent_temporary>
   </component>
