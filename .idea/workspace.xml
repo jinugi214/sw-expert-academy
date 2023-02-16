@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e31bc719-1ecc-4173-9686-4e9348d0afe3" name="Changes" comment="2023-02-14 algorithm study">
+    <list default="true" id="e31bc719-1ecc-4173-9686-4e9348d0afe3" name="Changes" comment="2023-02-15 algorithm study">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676384277364</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2023-02-15 algorithm study">
+      <created>1676469529238</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676469529238</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,7 +245,8 @@
     <MESSAGE value="2023-02-10 algorithm study" />
     <MESSAGE value="2023-02-12 algorithm study" />
     <MESSAGE value="2023-02-14 algorithm study" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-02-14 algorithm study" />
+    <MESSAGE value="2023-02-15 algorithm study" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-02-15 algorithm study" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
