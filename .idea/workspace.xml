@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e31bc719-1ecc-4173-9686-4e9348d0afe3" name="Changes" comment="2023-02-15 algorithm study">
+    <list default="true" id="e31bc719-1ecc-4173-9686-4e9348d0afe3" name="Changes" comment="2023-02-16 algorithm study">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/project/sw-expert-academy&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1222">
+  <component name="RunManager" selected="Python.12">
     <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sw-expert-academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +110,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1224" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sw-expert-academy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_study/D4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\project\sw-expert-academy\python_study\D4\1224.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1859" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sw-expert-academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,34 +152,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="selectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="sw-expert-academy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_study/else" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_study/else/selectionSort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.1222" />
         <item itemvalue="Python.1859" />
         <item itemvalue="Python.1216" />
         <item itemvalue="Python.12" />
-        <item itemvalue="Python.selectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676469529238</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2023-02-16 algorithm study">
+      <created>1676559247639</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676559247639</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,7 +252,8 @@
     <MESSAGE value="2023-02-12 algorithm study" />
     <MESSAGE value="2023-02-14 algorithm study" />
     <MESSAGE value="2023-02-15 algorithm study" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-02-15 algorithm study" />
+    <MESSAGE value="2023-02-16 algorithm study" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-02-16 algorithm study" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
