@@ -19,7 +19,6 @@ def bfs(sx, sy):
                 q.append((nx, ny))
                 visited[nx][ny] = 1
                 val_lst.append(graph[nx][ny])
-    print(val_lst)
     return min(val_lst), len(val_lst)
 
 
