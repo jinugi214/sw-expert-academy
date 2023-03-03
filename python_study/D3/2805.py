@@ -84,3 +84,32 @@ for t in range(1, T + 1):
     revenue += sum(farm[n // 2])
 
     print(f'#{t} {revenue}')
+
+'''
+# bfs가 아닌 배열을 사용해 풀어보기
+
+T = int(input())
+
+for t in range(1, T + 1):
+    N = int(input())
+    farm = [list(map(int, input())) for _ in range(N)]
+
+    mid = N // 2
+
+    ans = 0
+
+    dif = 1
+    for i in range(mid-1, -1, -1):  # 행
+        for j in range(dif, N - dif):  # 열
+            ans += farm[i][j]
+        dif += 1
+
+    dif = 0
+    for i in range(mid, N):  # 행
+        for j in range(dif, N - dif):  # 열
+            ans += farm[i][j]
+        dif += 1
+
+    print(f'#{t} {ans}')
+
+'''
